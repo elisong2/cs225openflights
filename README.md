@@ -1,4 +1,4 @@
-## CS-225-Final-Project-BAJE
+## CS-225-Final-Project
 
 <b>GitHub Organization:</b>
   
@@ -15,7 +15,7 @@
 
 <b>Running Instructions:</b>
 
- -To run the code first change your directory to the main project directory using the command "cd CS-225-Final-Project-BAJE-main" in the terminal. Then create a build folder using the command "mkdir build". Then change your directory to the build directory using the command "cd build" and run the "cmake .." command in the terminal to create the makefiles for the project. From there you can then run either the main or tests using the command "./tests" or "./main" in the terminal. To run the main there need to be two string arguments inserted after the "./main" command that are 3-letter IATA airport codes for US airports with the first string input being the origin the user wants and the second being the destination the user wants.
+ -To run the code first change your directory to the main project directory using the command "cd cs225openflights-main" in the terminal. Then create a build folder using the command "mkdir build". Then change your directory to the build directory using the command "cd build" and run the "cmake .." command in the terminal to create the makefiles for the project. From there you can then run either the main or tests using the command "./tests" or "./main" in the terminal. To run the main there need to be two string arguments inserted after the "./main" command that are 3-letter IATA airport codes for US airports with the first string input being the origin the user wants and the second being the destination the user wants.
  
  <i>Functions </i>
  
