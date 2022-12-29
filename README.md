@@ -10,8 +10,6 @@
 
 -The written report is in the main directory called results.md.
 
--The project presentation is in the main directory called Presentation.mp4.
-
 
 <b>Running Instructions:</b>
 
